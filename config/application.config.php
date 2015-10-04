@@ -13,7 +13,7 @@ return array(
         'DoctrineORMModule',
         'DoctrineDataFixtureModule',
         'SONBase',
-        //'SONUser'
+        'SONUser'
     ),
 
     // These are various options for the listeners attached to the ModuleManager
