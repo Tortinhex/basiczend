@@ -61,6 +61,6 @@ return array(
      * Configuracao do data-fixture
      */
     'data-fixture' => array(
-        'ZfUser_fixture' => __DIR__ . '/../src/ZfUser/Fixture'
+        'SONUser_fixture' => __DIR__ . '/../src/SONUser/Fixture'
     )
 );
